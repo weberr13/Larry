@@ -12,8 +12,8 @@ FBXHeaderExtension:  {
 		Month: 04
 		Day: 25
 		Hour: 00
-		Minute: 05
-		Second: 39
+		Minute: 10
+		Second: 56
 		Millisecond: 0
 	}
 	Creator: "FBX SDK/FBX Plugins build 20070228"
@@ -21,7 +21,7 @@ FBXHeaderExtension:  {
 		FlagPLE: 0
 	}
 }
-CreationTime: "2014-04-25 00:05:39:000"
+CreationTime: "2014-04-25 00:10:56:000"
 Creator: "Blender version 2.69 (sub 0)"
 
 ; Object definitions
@@ -1910,20 +1910,20 @@ Objects:  {
 			Property: "AmbientColor", "ColorRGB", "",1.0000,1.0000,1.0000
 			Property: "AmbientFactor", "double", "",1.0000
 			Property: "DiffuseColor", "ColorRGB", "",0.8000,0.8000,0.8000
-			Property: "DiffuseFactor", "double", "",0.8000
+			Property: "DiffuseFactor", "double", "",1.0000
 			Property: "Bump", "Vector3D", "",0,0,0
 			Property: "TransparentColor", "ColorRGB", "",1,1,1
 			Property: "TransparencyFactor", "double", "",0.0000
 			Property: "SpecularColor", "ColorRGB", "",1.0000,1.0000,1.0000
-			Property: "SpecularFactor", "double", "",0.5000
-			Property: "ShininessExponent", "double", "",12.3
+			Property: "SpecularFactor", "double", "",0.0510
+			Property: "ShininessExponent", "double", "",3.3
 			Property: "ReflectionColor", "ColorRGB", "",0,0,0
 			Property: "ReflectionFactor", "double", "",1
 			Property: "Emissive", "ColorRGB", "",0,0,0
 			Property: "Ambient", "ColorRGB", "",1.0,1.0,1.0
 			Property: "Diffuse", "ColorRGB", "",0.8,0.8,0.8
 			Property: "Specular", "ColorRGB", "",1.0,1.0,1.0
-			Property: "Shininess", "double", "",12.3
+			Property: "Shininess", "double", "",3.3
 			Property: "Opacity", "double", "",1.0
 			Property: "Reflectivity", "double", "",0
 		}
