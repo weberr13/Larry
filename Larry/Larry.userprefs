@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader">
     <Files>
-      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js" Line="369" Column="16" />
+      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-Water4.shader" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
