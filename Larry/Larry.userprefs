@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-Water4.shader">
     <Files>
-      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-Water4.shader" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-SimpleWater4.shader" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Scripts/SpecularLighting.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Water (Pro Only)/Water4/Sources/Shaders/FX-Water4.shader" Line="350" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
