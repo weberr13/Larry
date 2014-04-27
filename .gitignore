@@ -1,1 +1,49 @@
-Larry/Library/metadata/
+# =============== #
+# Unity generated #
+# =============== #
+Larry/Temp/
+Larry/Obj/
+Larry/UnityGenerated/
+Larry/Library/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ============ #
+# Blender      #
+# ============ #
+*.blend1
+*.blend2
+*.blend3
+
+# ============ #
+# Local        #
+# ============ #
+concept/
+*.mov
+*.avi
+*L_L*
+*.hide
